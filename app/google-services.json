@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97387800206",
+    "project_id": "newsreaderapp-2c268",
+    "storage_bucket": "newsreaderapp-2c268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97387800206:android:b34f23bc4cc45c2d3b4bdf",
+        "android_client_info": {
+          "package_name": "com.example.newsreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gLULIOQ71pe0XwG4yxfKDihMpRkAuMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
